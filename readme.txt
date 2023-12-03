@@ -1,0 +1,1 @@
+Aplicación creada con grasshopper para codificar con LEDS imágenes.
