@@ -2,4 +2,4 @@ Aplicación creada con grasshopper para codificar con LEDS imágenes.
 
 Creado por Ramón Rubio en MediaLab
 
-nueva linea de
+nueva linea de código
